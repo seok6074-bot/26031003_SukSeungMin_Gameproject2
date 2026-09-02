@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#_SSM\\26031003_SukSeungMin_Gameproject\\finalShooting\\finalShooting.csproj": {}
+    "C:\\C.석승민\\26031003_SukSeungMin_Gameproject2\\26031003_SukSeungMin_Gameproject\\finalShooting\\finalShooting.csproj": {}
   },
   "projects": {
-    "C:\\C#_SSM\\26031003_SukSeungMin_Gameproject\\finalShooting\\finalShooting.csproj": {
+    "C:\\C.석승민\\26031003_SukSeungMin_Gameproject2\\26031003_SukSeungMin_Gameproject\\finalShooting\\finalShooting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#_SSM\\26031003_SukSeungMin_Gameproject\\finalShooting\\finalShooting.csproj",
+        "projectUniqueName": "C:\\C.석승민\\26031003_SukSeungMin_Gameproject2\\26031003_SukSeungMin_Gameproject\\finalShooting\\finalShooting.csproj",
         "projectName": "finalShooting",
-        "projectPath": "C:\\C#_SSM\\26031003_SukSeungMin_Gameproject\\finalShooting\\finalShooting.csproj",
-        "packagesPath": "C:\\Users\\KOREAIT\\.nuget\\packages\\",
-        "outputPath": "C:\\C#_SSM\\26031003_SukSeungMin_Gameproject\\finalShooting\\obj\\",
+        "projectPath": "C:\\C.석승민\\26031003_SukSeungMin_Gameproject2\\26031003_SukSeungMin_Gameproject\\finalShooting\\finalShooting.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\C.석승민\\26031003_SukSeungMin_Gameproject2\\26031003_SukSeungMin_Gameproject\\finalShooting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\KOREAIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net9.0"
+          "net9.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
+          "net9.0-windows7.0": {
+            "targetAlias": "net9.0-windows",
             "projectReferences": {}
           }
         },
@@ -43,8 +43,34 @@
         "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
+          "dependencies": {
+            "NAudio": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Vortice.Direct2D1": {
+              "target": "Package",
+              "version": "[3.8.3, )"
+            },
+            "Vortice.WinForms": {
+              "target": "Package",
+              "version": "[3.8.3, )"
+            },
+            "Vortice.XAudio2": {
+              "target": "Package",
+              "version": "[3.8.3, )"
+            },
+            "Vortice.XInput": {
+              "target": "Package",
+              "version": "[3.8.3, )"
+            },
+            "glc2dcsharp": {
+              "target": "Package",
+              "version": "[0.1.0.7, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -59,6 +85,9 @@
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.317/PortableRuntimeIdentifierGraph.json"
