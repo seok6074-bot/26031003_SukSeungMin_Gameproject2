@@ -1,0 +1,14 @@
+C:\C#_SSM\26031003_SukSeungMin_Csharptraing\26031003_SukSeungMin_BasicTraing\bin\Debug\net9.0\26031003_SukSeungMin_BasicTraing.exe
+C:\C#_SSM\26031003_SukSeungMin_Csharptraing\26031003_SukSeungMin_BasicTraing\bin\Debug\net9.0\26031003_SukSeungMin_BasicTraing.deps.json
+C:\C#_SSM\26031003_SukSeungMin_Csharptraing\26031003_SukSeungMin_BasicTraing\bin\Debug\net9.0\26031003_SukSeungMin_BasicTraing.runtimeconfig.json
+C:\C#_SSM\26031003_SukSeungMin_Csharptraing\26031003_SukSeungMin_BasicTraing\bin\Debug\net9.0\26031003_SukSeungMin_BasicTraing.dll
+C:\C#_SSM\26031003_SukSeungMin_Csharptraing\26031003_SukSeungMin_BasicTraing\bin\Debug\net9.0\26031003_SukSeungMin_BasicTraing.pdb
+C:\C#_SSM\26031003_SukSeungMin_Csharptraing\26031003_SukSeungMin_BasicTraing\obj\Debug\net9.0\26031003_SukSeungMin_BasicTraing.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_SSM\26031003_SukSeungMin_Csharptraing\26031003_SukSeungMin_BasicTraing\obj\Debug\net9.0\26031003_SukSeungMin_BasicTraing.AssemblyInfoInputs.cache
+C:\C#_SSM\26031003_SukSeungMin_Csharptraing\26031003_SukSeungMin_BasicTraing\obj\Debug\net9.0\26031003_SukSeungMin_BasicTraing.AssemblyInfo.cs
+C:\C#_SSM\26031003_SukSeungMin_Csharptraing\26031003_SukSeungMin_BasicTraing\obj\Debug\net9.0\26031003_SukSeungMin_BasicTraing.csproj.CoreCompileInputs.cache
+C:\C#_SSM\26031003_SukSeungMin_Csharptraing\26031003_SukSeungMin_BasicTraing\obj\Debug\net9.0\26031003_SukSeungMin_BasicTraing.dll
+C:\C#_SSM\26031003_SukSeungMin_Csharptraing\26031003_SukSeungMin_BasicTraing\obj\Debug\net9.0\refint\26031003_SukSeungMin_BasicTraing.dll
+C:\C#_SSM\26031003_SukSeungMin_Csharptraing\26031003_SukSeungMin_BasicTraing\obj\Debug\net9.0\26031003_SukSeungMin_BasicTraing.pdb
+C:\C#_SSM\26031003_SukSeungMin_Csharptraing\26031003_SukSeungMin_BasicTraing\obj\Debug\net9.0\26031003_SukSeungMin_BasicTraing.genruntimeconfig.cache
+C:\C#_SSM\26031003_SukSeungMin_Csharptraing\26031003_SukSeungMin_BasicTraing\obj\Debug\net9.0\ref\26031003_SukSeungMin_BasicTraing.dll

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#_SSM\\26031003_SukSeungMin_Csharptraing\\26031003_SukSeungMin_BasicTraing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{887B7BAB-FAB3-42A9-B179-BF5C10358F54}|26031003_SukSeungMin_BasicTraing.csproj|c:\\c#_ssm\\26031003_sukseungmin_csharptraing\\26031003_sukseungmin_basictraing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887B7BAB-FAB3-42A9-B179-BF5C10358F54}|26031003_SukSeungMin_BasicTraing.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#_SSM\\26031003_SukSeungMin_Csharptraing\\26031003_SukSeungMin_BasicTraing\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\C#_SSM\\26031003_SukSeungMin_Csharptraing\\26031003_SukSeungMin_BasicTraing\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwFIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T01:12:43.356Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
